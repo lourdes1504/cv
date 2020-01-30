@@ -1,8 +1,8 @@
 :toc: macro
 :toc-title: Curriculum Vitae
-:toclevels: 99
+:toclevels: 100
 
-# Juan A. Pérez Gonzáles
+# María de Lourdes 
 
 One liner describing what you do.
 
@@ -16,13 +16,13 @@ _Specialties_: keywords separated by coma of different skills.
 
 ### Personal Information
 
-- *City*: Santiago, Chile
-- *Email*: juan@example.com
-- *Website*: https://www.example.com
+- *City*: Jalisco, México
+- *Email*: lourdes.perez.famoso@gmail.com
+
 
 ## Experience
 
-Chronological Descending Jobs and Work Experiences.
+Docencia a nivel bachillerato y secundaria.
 
 ### Company Name 
 
@@ -100,17 +100,16 @@ About the event.
 - *Publisher*: DevsChile
 - *Link*: http://example.com/myarticle
 
-## Videogames
+
 ### Title
-- *Published At*: 2019-05-10 (YYYY-MM-dd)
-- *Publisher*: DevsChile
-- *Link*: http://example.com/mygame
+- *Published At*: 2020-01-29 (YYYY-MM-dd)
+- *Publisher*: México
+
 
 ## Apps
 ### Title
-- *Published At*: 2019-05-10 (YYYY-MM-dd)
-- *Publisher*: DevsChile
-- *Link*: http://example.com/myapp
+- *Published At*: 2020-01-29 (YYYY-MM-dd)
+- *Publisher*: DevsMéxico
 
 ## Awards 
 ### Title (month year)
