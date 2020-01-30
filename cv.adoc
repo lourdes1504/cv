@@ -70,8 +70,8 @@ Small text about the education.
 
 ##### Achievements
 
-- Achievement 1
-- Achievement 2
+Lic. en Contaduría Pública
+Actualizaciones en Educación
 
 ### Licenses and Certifications
 
@@ -90,15 +90,15 @@ About the event.
 
 ## Publications
 ### Title
-- *Published At*: 2019-05-10 (YYYY-MM-dd)
-- *Publisher*: DevsChile
-- *Link*: http://example.com/mypublication
+- *Published At*: 2020-01-29 (YYYY-MM-dd)
+- *Publisher*: México
+
 
 ## Articles
 ### Title
-- *Published At*: 2019-05-10 (YYYY-MM-dd)
-- *Publisher*: DevsChile
-- *Link*: http://example.com/myarticle
+- *Published At*: 2020-01-29 (YYYY-MM-dd)
+- *Publisher*: México
+
 
 
 ### Title
@@ -109,7 +109,7 @@ About the event.
 ## Apps
 ### Title
 - *Published At*: 2020-01-29 (YYYY-MM-dd)
-- *Publisher*: DevsMéxico
+- *Publisher*:México
 
 ## Awards 
 ### Title (month year)
@@ -122,14 +122,14 @@ Groups and Meetups usually participating in.
 ### Group 1
 About
 
-- *Link*: http://example.com
+
 
 ### Group 2
 About
 
-- *Link*: http://example.com
+
 
 ## Recommendations
 
-> Superb and ultra cute human beign.
-> -- My Mom
+Siempre debes luchar por lo que quieres, no te rindas
+
