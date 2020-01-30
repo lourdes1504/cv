@@ -22,7 +22,14 @@ _Specialties_: keywords separated by coma of different skills.
 
 ## Experience
 
-Docencia a nivel bachillerato y secundaria.
+Docencia a nivel bachillerato y secundaria
+
+### Paginas de interes y formacion academica
+
+Secretaria de Educacion Publica
+http://dgfc.basica.sep.gob.mx/
+http://dgfc.basica.sep.gob.mx/publications/pub/88/Aprendizajes+Clave++Proyectar+la+Ense%C3%B1anza++Acervo
+http://dgfc.basica.sep.gob.mx/publications/pub/33/Estrategia+Nacional
 
 ### Company Name 
 
